@@ -1,4 +1,4 @@
-# -Beans-Game
+# Beans-Game
 
 A multiplayer terminal-based game where players put or take beans from a shared pot based on randomly chosen actions. The last remaining player with beans wins!
 
